@@ -23,7 +23,7 @@
 <a href="https://twitter.com/izhar_ia2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izhar_ia2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/izhar100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izhar100" height="30" width="40" /></a>
 <a href="https://instagram.com/izhar_ia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izhar_ia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/digital izhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="digital izhar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@digitalizhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="digital izhar" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>

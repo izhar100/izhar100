@@ -15,7 +15,7 @@
 
 📫 How to reach me **ezharashraf523@gmail.com**
 
-📄 Checkout my resume <a href="https://drive.google.com/file/d/1v5WxXZrKepVxDISp30ERWWwK2hFuDHhU/view?usp=share_link">here</a>
+📄 Checkout my resume <a href="https://drive.google.com/file/d/1qy06lYUfPUNwB1aZ8nCxTd224rMdg3ps/view?usp=sharing">here</a>
  </div>
 
 <h3 align="center">Connect with me:</h3>

@@ -9,8 +9,6 @@
 
 👨‍💻 Checkout my portfolio at [here](https://izhar100.github.io/)
 
-📝 I regularly write articles on [wecartpro.com](https://www.wecartpro.com)
-
 💬 Ask me about **React, NodeJS, MongoDB, Express**
 
 📫 How to reach me **ezharashraf523@gmail.com**

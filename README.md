@@ -1,34 +1,287 @@
-<h1 align="center">Hi 👋, I'm Ezhar Ashraf</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<div align="center">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izhar100" alt="izhar100" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=220&section=header&text=Ezhar%20Ashraf&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer%20%7C%20AI%20Builder&descAlignY=58&descSize=18" width="100%" />
+
+<br />
+
+<a href="https://izhar100.github.io/">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-7F00FF?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/izhar100">
+<img src="https://img.shields.io/badge/LINKEDIN-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ezharashraf523@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00F5A0?style=for-the-badge&logo=gmail&logoColor=111111" />
+</a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=izhar100&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" />
+
+</div>
+
+---
 
 <div align="center">
-  
-🌱 I’m currently learning <b>Full Stack Web Development</b>
 
-👨‍💻 Checkout my portfolio at [here](https://izhar100.github.io/)
+## ⚡ SOFTWARE ENGINEER · FRONTEND · AI
 
-💬 Ask me about **React, NodeJS, MongoDB, Express**
+### I build things for the web.
 
-📫 How to reach me **ezharashraf523@gmail.com**
+**React • Next.js • JavaScript • TypeScript • AI**
 
-📄 Checkout my resume <a href="https://drive.google.com/file/d/1qy06lYUfPUNwB1aZ8nCxTd224rMdg3ps/view?usp=sharing">here</a>
- </div>
+<br />
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/izhar_ia2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="izhar_ia2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/izhar100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izhar100" height="30" width="40" /></a>
-<a href="https://instagram.com/izhar_ia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izhar_ia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@digitalizhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="digital izhar" height="30" width="40" /></a>
-</p>
+> Turning ideas into products, interfaces and experiments.
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izhar100&show_icons=true&locale=en&layout=compact" alt="izhar100" /></p>
+---
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhar100&show_icons=true&locale=en" alt="izhar100" /></p>
+## 🧑‍💻 About Me
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izhar100&" alt="izhar100" /></p>
+<img align="right" width="300" src="https://raw.githubusercontent.com/izhar100/izhar100/main/assets/developer.gif" />
+
+Hey! I'm **Ezhar**, a Software Engineer from India focused on building modern web applications.
+
+I have **3+ years of professional experience** in frontend development and currently work primarily with **React.js**.
+
+Outside my day job, I enjoy building products from scratch and experimenting with AI.
+
+### Currently
+
+* ⚛️ Building with **React & Next.js**
+* 🔷 Going deeper into **JavaScript**
+* 🤖 Exploring **Generative AI & RAG**
+* 🧠 Learning advanced frontend architecture
+* 🚀 Building and shipping side projects
+
+<br clear="right"/>
+
+---
+
+# 🚀 Projects
+
+<div align="center">
+
+### 🧠 LegendsTalk
+
+<img src="https://img.shields.io/badge/AI%20CHAT-7F00FF?style=flat-square" />
+<img src="https://img.shields.io/badge/GEMINI-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" />
+
+<br /><br />
+
+**Talk with AI characters inspired by historical personalities.**
+
+A conversational AI experience designed around character-based interactions.
+
+<br />
+
+<a href="https://legendstalk.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-7F00FF?style=for-the-badge" />
+</a>
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+### 💬 Izhar-e-Thoughts
+
+<img src="https://img.shields.io/badge/SOCIAL%20APP-00C6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" />
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+<br /><br />
+
+**A social platform built from the ground up.**
+
+Create posts, like, comment, follow users and chat with other users.
+
+<br />
+
+<a href="https://izhar-e-thoughts.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00C6FF?style=for-the-badge" />
+</a>
+
+</div>
+
+<br />
+
+---
+
+<div align="center">
+
+### 📸 FetchInsta
+
+<img src="https://img.shields.io/badge/WEB%20TOOLS-00F5A0?style=flat-square" />
+<img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=111111" />
+
+<br /><br />
+
+**A collection of tools for downloading and working with social media content.**
+
+Built with a focus on simplicity, speed and a clean user experience.
+
+<br />
+
+<a href="https://fetchinsta.com/">
+<img src="https://img.shields.io/badge/🚀%20VISIT%20FETCHINSTA-00F5A0?style=for-the-badge&logoColor=111111" />
+</a>
+
+</div>
+
+---
+
+# 🛠️ Tech I Work With
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux" />
+
+<br /><br />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+<br /><br />
+
+### AI & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-111111?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-7F00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20DB-00C6FF?style=for-the-badge" />
+
+</div>
+
+---
+
+# 🧠 Currently Exploring
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ⚛️
+
+**Advanced React**
+
+Architecture
+Performance
+Patterns
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔷
+
+**TypeScript**
+
+Type Safety
+Generics
+Scalable Apps
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Engineering**
+
+LLMs
+RAG
+AI Agents
+
+</td>
+
+<td align="center" width="25%">
+
+### ▲
+
+**Next.js**
+
+Full Stack
+Architecture
+Performance
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=izhar100&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00C6FF&text_color=FFFFFF&rank_icon=github" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izhar100&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=FFFFFF" height="180" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=izhar100&hide_border=true&background=0D1117&ring=7F00FF&fire=00C6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
+
+</div>
+
+---
+
+# 🌐 Find Me Online
+
+<div align="center">
+
+<a href="https://linkedin.com/in/izhar100">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/izhar100">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/izhar_ia">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/@digitalizhar">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" />
+</a>
+
+<br /><br />
+
+**Let's build something interesting. 🚀**
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00C6FF,100:00F5A0&height=120&section=footer" width="100%" />
+
+</div>
